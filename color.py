@@ -17,7 +17,7 @@ def design():
         begin_fill()
         rt(98)
         circle(i, 12)
-        fd(298)
+        fd(290)
         fd(i)
         lt(29)
         for j in range(129):
